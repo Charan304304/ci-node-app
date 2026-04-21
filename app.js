@@ -3,3 +3,4 @@ function add(a,b) {
 }
 console.log('App is running..');
 console.log('Addition Result:',add(18,30));
+module.exports=add;
